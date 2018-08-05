@@ -1,0 +1,2 @@
+use movie_reviews;
+select sentiment from sentiment_analysis;
