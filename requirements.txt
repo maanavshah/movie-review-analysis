@@ -2,6 +2,6 @@ nose
 numpy==1.8.1
 scipy==0.14.0
 scikit-learn==0.15.0
-nltk==3.0.1
+nltk==3.4.5
 cassandra-driver==3.8.1
 matplotlib==2.0.0
